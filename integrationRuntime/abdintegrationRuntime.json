@@ -1,0 +1,6 @@
+{
+	"name": "abdintegrationRuntime",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
